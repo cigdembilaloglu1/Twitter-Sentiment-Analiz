@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/ahmetyblgn/duygu-analizi-python-nltk-sentiment-analysis/notebook
